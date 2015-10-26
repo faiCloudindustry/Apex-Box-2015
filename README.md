@@ -1,4 +1,4 @@
-Apex Wrapper Salesforce Metadata API
+Box API for Force.com
 ====================================
  
 <a href="https://githubsfdeploy.herokuapp.com?owner=faiCloudindustry&repo=Apex-Box-2015">
